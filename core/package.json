@@ -40,7 +40,7 @@
     "dependencies": {
         "amp-toolbox-cors": "^1.2.0-alpha.2",
         "async": "^3.1.0",
-        "bignum": "git://github.com/Invader444/node-bignum.git#node12",
+        "bignum": "https://github.com/Cminor-pools/node-bignum.git#node12",
         "body-parser": "^1.19.0",
         "colors": "^1.4.0",
         "compression": "^1.7.4",
@@ -54,7 +54,7 @@
         "nonce": "^1.0.4",
         "redis": "^2.7.1",
         "request": "^2.88.0",
-        "cryptopool.builders-stratum-pool": "git://github.com/cryptopool-builders/cryptopool.builders-stratum-pool.git"
+        "cryptopool.builders-stratum-pool": "https://github.com/Cminor-pools/cryptopool.builders-stratum-pool.git"
     },
     "engines": {
         "node": ">=12.10.3"
